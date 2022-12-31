@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at [Teta Elektronik](https://www.teta.com.tr/)
 
-- 🌱 I’m currently learning **React, NodeJs**
-
 - 📫 Reach me @ **camaraousman99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
