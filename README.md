@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Ousman Camara</h1>
 <h3 align="center">Software Developer/ (Bsc.) Computer Engineering/ Chess Enthusiast</h3>
 
-- 🔭 I’m currently working at [Teta Elektronik](https://www.teta.com.tr/)
+- 🔭 I’m currently working at [Vero Digital Solutions](https://www.vero-digital.solutions/)
 
-- 📫 Reach me @ **camaraousman99@gmail.com**
+- 📫 Reach me @ **ousmanfayecamara99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
